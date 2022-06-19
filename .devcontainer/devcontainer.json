@@ -25,7 +25,8 @@
                 "ms-vscode.cmake-tools",
                 "GitHub.copilot",
                 "eamodio.gitlens",
-                "rogalmic.bash-debug"
+                "rogalmic.bash-debug",
+                "llvm-vs-code-extensions.vscode-clangd"
             ]
         }
     },
