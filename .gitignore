@@ -5,3 +5,4 @@
 !.gitignore
 !profile/README.md
 !.devcontainer/
+!.clang-format
