@@ -8,5 +8,5 @@ Once you have had a look through this profile, you can head to my [main profile]
 
 |Repository Name|Description|Keywords|
 |:----|:----|:----|
-|[util](https://github.com/topheruk-c/util)|Common functions|`utility`|
-|[calculator](https://github.com/topheruk-c/calculator)|Simple calculator project|`maths`|
+|[util](https://github.com/hyphenclang/util)|Common functions|`utility`|
+|[calculator](https://github.com/hyphenclang/calculator)|Simple calculator project|`maths`|
